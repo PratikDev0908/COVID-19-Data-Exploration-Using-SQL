@@ -1,4 +1,3 @@
-# COVID-19-Data-Exploration-Using-SQL
 # COVID-19 Data Analysis Using SQL
 
 ## About
@@ -7,10 +6,9 @@ I used SQL to explore COVID-19 cases, deaths, and vaccination trends in [countri
 ## Data source
 Our World in Data COVID-19 dataset: https://github.com/owid/covid-19-data
 
-Downloaded on: [date]
 
 ## Tools
-- [SQL Server or database you used]
+- [my sql]
 - SQL
 
 ## Questions
